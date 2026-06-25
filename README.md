@@ -32,6 +32,7 @@ The system processes data step-by-step through three phases, moving information 
 ---
 
 ## How to Run the Project
+open the folder above called "Java Project-2.0--" at above of README.md and download all the file inside the folder
 
 ### Prerequisites
 Make sure you have **BlueJ or any JVM ** installed on your computer.
