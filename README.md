@@ -34,7 +34,7 @@ The system processes data step-by-step through three phases, moving information 
 ## How to Run the Project
 
 ### Prerequisites
-Make sure you have **Java (JDK 8 or higher)** installed on your computer.
+Make sure you have **BlueJ or any JVM ** installed on your computer.
 
 ### Steps to Run
 1. Open your terminal or command prompt.
